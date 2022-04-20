@@ -1,0 +1,19 @@
+h1{
+  font-family:"lobster", cursive;
+  font-size: 7rem;
+  margin-left:400px;
+  color:#fff;
+  margin-top:00px;
+}
+.front{
+  margin-top: 70px;
+}
+body{
+  background-image: linear-gradient(70deg, #F55353, #FEB139);
+}
+.card{
+  width: 700px;
+  margin-left: 400px;
+  margin-top:300px;
+  text-align: center;
+}
